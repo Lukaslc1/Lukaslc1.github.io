@@ -1,0 +1,54 @@
+body{
+	margin: 0;
+	text-align: center;
+	width: 1000px;
+	margin: 0 auto;
+background: url(fim.jpg);
+
+}
+
+div#casulo{
+	/*casulo*/
+
+	background: white; 
+}
+
+}
+div#principal {
+	background: #6495ED;
+	width: 850px;
+	float: left;
+}
+
+}
+div#principal img{
+	width:700px;
+
+}
+
+#spam{
+	background:dodgerblue;
+
+
+}
+
+b{
+
+	color: red;
+}
+a.menu_1{
+	color: #0000CD;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+a.menu_2{
+	color: #FF0000;
+	font-family: 'Poiret One', cursive;
+}
+
+h2{
+	font-family: 'Lora', serif;
+}
+
+h1{
+	font-family: 'Pacifico', cursive;
+}
